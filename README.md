@@ -10,7 +10,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GITHUB-RichardMorales1501-0d1117?style=for-the-badge&logo=github&logoColor=00FF66)](https://github.com/RichardMorales1501)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Ricardo_Morales-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF66)](#)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Ricardo_Morales-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF66)](https://www.linkedin.com/in/ricardo-morales-01a479114/)
 [![Ubicación](https://img.shields.io/badge/LOCATION-M%C3%89XICO-0d1117?style=for-the-badge&logo=google-maps&logoColor=00FF66)](#)
 
 </div>
@@ -123,8 +123,12 @@ Capa de orquestación que conecta WhatsApp Business API (Meta Cloud API), modelo
 
 <div align="center">
 
-[![Stats](https://github-readme-stats-weld-seven-67.vercel.app/api?username=RichardMorales1501&show_icons=true&theme=dark&icon_color=00FF66&text_color=00FF66&title_color=00FF66&bg_color=0d1117&include_all_commits=true&count_private=true)](https://github.com/RichardMorales1501)
-[![Top Languages](https://github-readme-stats-weld-seven-67.vercel.app/api/top-langs/?username=RichardMorales1501&layout=compact&theme=dark&text_color=00FF66&title_color=00FF66&bg_color=0d1117)](https://github.com/RichardMorales1501)
+[![Stats](https://github-readme-stats-weld-seven-67.vercel.app/api?username=RichardMorales1501&show_icons=true&theme=dark&icon_color=00FF66&text_color=00FF66&title_color=00FF66&bg_color=0d1117&border_color=00FF66&hide_border=false&border_radius=10&include_all_commits=true&count_private=true)](https://github.com/RichardMorales1501)
+[![Top Languages](https://github-readme-stats-weld-seven-67.vercel.app/api/top-langs/?username=RichardMorales1501&layout=compact&theme=dark&text_color=00FF66&title_color=00FF66&bg_color=0d1117&border_color=00FF66&hide_border=false&border_radius=10)](https://github.com/RichardMorales1501)
+
+[![Streak](https://streak-stats.demolab.com?user=RichardMorales1501&theme=dark&background=0D1117&border=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&currStreakNum=FFFFFF&sideNums=00FF66&sideLabels=00FF66&dates=6b7280&border_radius=10)](https://github.com/RichardMorales1501)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RichardMorales1501&theme=react-dark&hide_border=false&border_color=00FF66&bg_color=0D1117&color=00FF66&line=00FF66&point=FFFFFF&area=true&area_color=00FF66" width="100%" alt="Activity Graph"/>
 
 ![Vistas](https://komarev.com/ghpvc/?username=RichardMorales1501&color=00FF66&style=flat-square)
 
