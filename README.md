@@ -41,9 +41,9 @@
 
 | | |
 |---|---|
-| 🧠 **Psicología** — UNAM | Optimización de comportamiento y experiencia del usuario |
-| 📊 **Economía** — IPN | Enfoque estricto en ROI y eficiencia operativa |
-| 💻 **MSc. Dirección e Ing. de Software** — UTEL | Arquitectura robusta, escalable e industrial |
+| <img src="./unam.png" width="22"/> **Psicología** — UNAM | Optimización de comportamiento y experiencia del usuario |
+| <img src="./ipn.png" width="22"/> **Economía** — IPN | Enfoque estricto en ROI y eficiencia operativa |
+| <img src="./utel.png" width="22"/> **MSc. Dirección e Ing. de Software** — UTEL | Arquitectura robusta, escalable e industrial |
 
 <br/>
 
