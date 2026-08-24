@@ -123,7 +123,7 @@ Capa de orquestación que conecta WhatsApp Business API (Meta Cloud API), modelo
 
 <div align="center">
 
-[![Stats](https://github-readme-stats-weld-seven-67.vercel.app/api?username=RichardMorales1501&show_icons=true&theme=dark&icon_color=00FF66&text_color=00FF66&title_color=00FF66&bg_color=0d1117&include_all_commits=true)](https://github.com/RichardMorales1501)
+[![Stats](https://github-readme-stats-weld-seven-67.vercel.app/api?username=RichardMorales1501&show_icons=true&theme=dark&icon_color=00FF66&text_color=00FF66&title_color=00FF66&bg_color=0d1117&include_all_commits=true&count_private=true)](https://github.com/RichardMorales1501)
 [![Top Languages](https://github-readme-stats-weld-seven-67.vercel.app/api/top-langs/?username=RichardMorales1501&layout=compact&theme=dark&text_color=00FF66&title_color=00FF66&bg_color=0d1117)](https://github.com/RichardMorales1501)
 
 ![Vistas](https://komarev.com/ghpvc/?username=RichardMorales1501&color=00FF66&style=flat-square)
