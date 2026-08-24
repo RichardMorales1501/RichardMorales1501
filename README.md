@@ -3,9 +3,6 @@
 <img src="./matrix-rain.svg" width="100%" alt="Matrix Rain Banner"/>
 
 <br/>
-
-<img src="./name-banner.svg" width="520" alt="Ricardo Morales"/>
-
 <br/>
 <br/>
 
