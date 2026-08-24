@@ -49,7 +49,7 @@
 
 ---
 
-## <img src="./assets/icons/tools.svg" width="24" valign="middle"/> `SYSTEM_CORE // TECH_MATRIX`
+## <img src="./assets/icons/tools.svg" width="24" valign="middle"/> `SYSTEM_CORE`
 
 **🌐 Arquitectura & Cloud**
 `Multi-Tenant` `Microservices` `Event-Driven` `API-First (REST/Webhooks)` `Docker` `AWS` `PostgreSQL`
