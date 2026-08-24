@@ -26,17 +26,14 @@
 <img src="./assets/icons/terminal.svg" width="20" valign="middle"/> **`SYSTEM_INIT // EXECUTIVE_SUMMARY`**
 
 ```
-> ARCHITECT_STATUS ......... ONLINE
-> CORE_FOCUS ................ AUTONOMOUS BUSINESS PLATFORMS
-Arquitecto de sistemas e ingeniero de software especializado
-en el diseño y despliegue de **plataformas de negocio autónomas
- a gran escala**. Enfoque en reemplazar operaciones manuales
- críticas mediante **orquestación multi-agente de Inteligencia
- Artificial**, comunicaciones en tiempo real (**WebRTC / LiveKit**)
-e integración profunda de APIs / CRMs.
+> ARCHITECT_STATUS ........... ONLINE
+> CORE_FOCUS .................. AUTONOMOUS BUSINESS PLATFORMS
+> MODULES_LOADED .............. AI_ORCHESTRATION, WEBRTC, API_INTEGRATION
+> COMPLIANCE_LAYER ............ NOM-151 / PLD-SHCP
+> STATUS_CHECK ................ ALL SYSTEMS OPERATIONAL
 ```
 
-
+> Arquitecto de sistemas e ingeniero de software especializado en el diseño y despliegue de **plataformas de negocio autónomas a gran escala**. Enfoque en reemplazar operaciones manuales críticas mediante **orquestación multi-agente de Inteligencia Artificial**, comunicaciones en tiempo real (**WebRTC / LiveKit**) e integración profunda de APIs / CRMs.
 
 <br/>
 
@@ -52,7 +49,7 @@ e integración profunda de APIs / CRMs.
 
 ---
 
-## <img src="./assets/icons/tools.svg" width="24" valign="middle"/> `SYSTEM_CORE`
+## <img src="./assets/icons/tools.svg" width="24" valign="middle"/> `SYSTEM_CORE // TECH_MATRIX`
 
 **🌐 Arquitectura & Cloud**
 `Multi-Tenant` `Microservices` `Event-Driven` `API-First (REST/Webhooks)` `Docker` `AWS` `PostgreSQL`
