@@ -28,7 +28,12 @@
 ```
 > ARCHITECT_STATUS ......... ONLINE
 > CORE_FOCUS ................ AUTONOMOUS BUSINESS PLATFORMS
-Arquitecto de sistemas e ingeniero de software especializado en el diseño y despliegue de **plataformas de negocio autónomas a gran escala**. Enfoque en reemplazar operaciones manuales críticas mediante **orquestación multi-agente de Inteligencia Artificial**, comunicaciones en tiempo real (**WebRTC / LiveKit**) e integración profunda de APIs / CRMs.
+Arquitecto de sistemas e ingeniero de software especializado
+en el diseño y despliegue de **plataformas de negocio autónomas
+ a gran escala**. Enfoque en reemplazar operaciones manuales
+ críticas mediante **orquestación multi-agente de Inteligencia
+ Artificial**, comunicaciones en tiempo real (**WebRTC / LiveKit**)
+e integración profunda de APIs / CRMs.
 ```
 
 
