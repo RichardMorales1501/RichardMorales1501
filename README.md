@@ -4,7 +4,7 @@
 
 <br/>
 
-# RICARDO MORALES
+# 🟢 RICARDO MORALES
 ### `Chief Technology Officer` · `Principal Systems Architect` · `Founder`
 
 <br/>
@@ -17,8 +17,9 @@
 
 <br/>
 
+<img src="./assets/icons/terminal.svg" width="20" valign="middle"/> **`SYSTEM_INIT // EXECUTIVE_SUMMARY`**
+
 ```
-[SYSTEM_INIT // EXECUTIVE_SUMMARY]
 > ARCHITECT_STATUS ......... ONLINE
 > CORE_FOCUS ................ AUTONOMOUS BUSINESS PLATFORMS
 ```
@@ -27,7 +28,7 @@ Arquitecto de sistemas e ingeniero de software especializado en el diseño y des
 
 <br/>
 
-### ⚡ Ventaja Competitiva Tridimensional
+<img src="./assets/icons/bolt.svg" width="18" valign="middle"/> **Ventaja Competitiva Tridimensional**
 
 | | |
 |---|---|
@@ -37,13 +38,9 @@ Arquitecto de sistemas e ingeniero de software especializado en el diseño y des
 
 <br/>
 
-<div align="center">
-<img src="./matrix-rain.svg" width="100%" alt="Matrix Rain Footer"/>
-</div>
-
 ---
 
-## 🛠️ `SYSTEM_CORE // TECH_MATRIX`
+## <img src="./assets/icons/tools.svg" width="24" valign="middle"/> `SYSTEM_CORE // TECH_MATRIX`
 
 **🌐 Arquitectura & Cloud**
 `Multi-Tenant` `Microservices` `Event-Driven` `API-First (REST/Webhooks)` `Docker` `AWS` `PostgreSQL`
@@ -61,16 +58,19 @@ Arquitecto de sistemas e ingeniero de software especializado en el diseño y des
 
 ---
 
-## 🚀 `SYSTEM_NODES // FEATURED_PROJECTS`
+## <img src="./assets/icons/rocket.svg" width="24" valign="middle"/> `SYSTEM_NODES // FEATURED_PROJECTS`
 
 <table>
 <tr>
 <td width="120" align="center" valign="top">
+<a href="https://www.fraccify.com">
 <img src="./fraccify.png" width="90" alt="Fraccify logo"/>
+</a>
 </td>
 <td valign="top">
 
-### Fraccify — Vertical SaaS B2B2C (Operaciones Condominiales e IoT)
+### <a href="https://www.fraccify.com">Fraccify</a> — Vertical SaaS B2B2C (Operaciones Condominiales e IoT)
+🔗 [www.fraccify.com](https://www.fraccify.com)
 
 Infraestructura multi-tenant completa (Web, Mobile y APK) para gestión financiera, reservas y control de accesos.
 
@@ -87,11 +87,14 @@ Infraestructura multi-tenant completa (Web, Mobile y APK) para gestión financie
 <table>
 <tr>
 <td width="120" align="center" valign="top">
+<a href="https://www.sentrify.cloud">
 <img src="./sentrify.png" width="90" alt="Sentrify logo"/>
+</a>
 </td>
 <td valign="top">
 
-### Sentrify — Engine de Automatización Enterprise y Multi-Agente
+### <a href="https://www.sentrify.cloud">Sentrify</a> — Engine de Automatización Enterprise y Multi-Agente
+🔗 [www.sentrify.cloud](https://www.sentrify.cloud)
 
 Capa de orquestación que conecta WhatsApp Business API (Meta Cloud API), modelos de lenguaje (LLMs) y CRMs institucionales.
 
@@ -106,7 +109,7 @@ Capa de orquestación que conecta WhatsApp Business API (Meta Cloud API), modelo
 
 ---
 
-## 🎓 `ACADEMIC_BACKGROUND`
+## <img src="./assets/icons/graduation.svg" width="24" valign="middle"/> `ACADEMIC_BACKGROUND`
 
 - 🎓 **Maestría en Dirección e Ingeniería de Software** — *UTEL Universidad*
 - 🧠 **Licenciatura en Psicología** — *Universidad Nacional Autónoma de México (UNAM)*
@@ -116,20 +119,14 @@ Capa de orquestación que conecta WhatsApp Business API (Meta Cloud API), modelo
 
 ---
 
-## 📊 `SYSTEM_ANALYTICS`
-
+## <img src="./assets/icons/analytics.svg" width="24" valign="middle"/> `SYSTEM_ANALYTICS`
 
 <div align="center">
 
-## 📊 `[MATRIX_ANALYTICS]`
+[![Stats](https://github-readme-stats.vercel.app/api?username=RichardMorales1501&show_icons=true&theme=dark&icon_color=00FF66&text_color=00FF66&title_color=00FF66&bg_color=0d1117&include_all_commits=true)](https://github.com/RichardMorales1501)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMorales1501&layout=compact&theme=dark&text_color=00FF66&title_color=00FF66&bg_color=0d1117)](https://github.com/RichardMorales1501)
 
-<img src="https://github-readme-stats.vercel.app/api?username=RichardMorales1501&show_icons=true&theme=dark&icon_color=00FF66&text_color=ffffff&title_color=00FF66&bg_color=0d1117" alt="GitHub Stats" />
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMorales1501&layout=compact&theme=dark&text_color=ffffff&title_color=00FF66&bg_color=0d1117" alt="Top Languages" />
-
-<br/><br/>
-
-![Contador de Vistas](https://komarev.com/ghpvc/?username=RichardMorales1501&color=00FF66&style=flat-square)
+![Vistas](https://komarev.com/ghpvc/?username=RichardMorales1501&color=00FF66&style=flat-square)
 
 </div>
 
