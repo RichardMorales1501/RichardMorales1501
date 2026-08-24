@@ -37,6 +37,10 @@ Arquitecto de sistemas e ingeniero de software especializado en el diseño y des
 
 <br/>
 
+<div align="center">
+<img src="./matrix-rain.svg" width="100%" alt="Matrix Rain Footer"/>
+</div>
+
 ---
 
 ## 🛠️ `SYSTEM_CORE // TECH_MATRIX`
@@ -114,12 +118,18 @@ Capa de orquestación que conecta WhatsApp Business API (Meta Cloud API), modelo
 
 ## 📊 `SYSTEM_ANALYTICS`
 
+
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=RichardMorales1501&show_icons=true&theme=dark&icon_color=00FF66&text_color=00FF66&title_color=00FF66&bg_color=0d1117&include_all_commits=true&count_private=true)](https://github.com/RichardMorales1501)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMorales1501&layout=compact&theme=dark&text_color=00FF66&title_color=00FF66&bg_color=0d1117)](https://github.com/RichardMorales1501)
+## 📊 `[MATRIX_ANALYTICS]`
 
-![Vistas](https://komarev.com/ghpvc/?username=RichardMorales1501&color=00FF66&style=flat-square)
+<img src="https://github-readme-stats.vercel.app/api?username=RichardMorales1501&show_icons=true&theme=dark&icon_color=00FF66&text_color=ffffff&title_color=00FF66&bg_color=0d1117" alt="GitHub Stats" />
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardMorales1501&layout=compact&theme=dark&text_color=ffffff&title_color=00FF66&bg_color=0d1117" alt="Top Languages" />
+
+<br/><br/>
+
+![Contador de Vistas](https://komarev.com/ghpvc/?username=RichardMorales1501&color=00FF66&style=flat-square)
 
 </div>
 
